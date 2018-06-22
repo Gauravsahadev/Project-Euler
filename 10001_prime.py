@@ -1,4 +1,6 @@
 # Program to find the 10001st prime number
+#Its takes very much time to iterate
+
 count = 0
 a = 1
 while count != 10001:
